@@ -1,0 +1,6 @@
+Calculando endereço físico de 46100...
+O endereço físico é 29716
+Calculando endereço físico de 27123...
+Falta de páginas. Recalculando o valor do endereço físico com os seguintes algoritmos de substituição de páginas:
+FIFO: O endereço físico é 10739
+Segunda Chance: O endereço físico é 14835
